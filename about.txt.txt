@@ -1,1 +1,4 @@
 we are learning coding from kafil san, we started from git and github.
+
+Lab 3 practice starts here check the difference in GitHub and your current file
+Afterwards, run git pull command
